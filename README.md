@@ -1,10 +1,12 @@
 # ArcGIS API for JavaScript 加载天地图WMTS图层
 
-## 变量说明
-* map; //地图
-* baseTypeName = "vec"; //底图
-* baseAnnoName = "cva"; //注记
-* typeMatrixSet = "c";  //"c"-地理坐标系，"w"-投影坐标系
+## 全局变量
+```javascript
+var map; //地图
+var baseTypeName = "vec"; //底图
+var baseAnnoName = "cva"; //注记
+var typeMatrixSet = "c";  //"c"-地理坐标系，"w"-投影坐标系
+```
 
 ## 天地图类型
 * vec: 矢量底图
@@ -17,3 +19,7 @@
 *
 * ter: 地形底图
 * cta: 地形注记图层
+
+##预览
+![](https://github.com/huangli005/TianDiTu/raw/master/images/1.png) 
+![](https://github.com/huangli005/TianDiTu/raw/master/images/2.png) 
