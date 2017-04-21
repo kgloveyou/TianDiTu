@@ -1,6 +1,6 @@
 # ArcGIS API for JavaScript 加载天地图WMTS图层
 
-## 全局变量
+## 变量
 ```javascript
 var map; //地图
 var baseTypeName = "vec"; //底图
